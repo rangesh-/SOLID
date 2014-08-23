@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="03d5ef74-70d6-4540-bde5-0e26ea260988" name="rangesh@RANGESH-PC 2014-07-08 08:52:00" runUser="rangesh-PC\rangesh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7b671d9d-f8b3-4179-8a7c-a4bd411a1748">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rangesh_RANGESH-PC 2014-07-08 08_52_00">
+      <DeploymentItem filename="C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\SOLID\bin\Debug\SOLID.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-07-08T08:52:00.2784523+05:30" queuing="2014-07-08T08:52:01.3185118+05:30" start="2014-07-08T08:52:01.3885158+05:30" finish="2014-07-08T08:52:02.0165517+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="5" executed="5" passed="4" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NineFor3x3Rectangle" storage="c:\users\rangesh\documents\visual studio 2010\projects\experiments\solid\unittest\bin\debug\unittest.dll" id="5a3c088f-bf0b-4399-4241-0c56b54c552c">
+      <Execution id="4df102ea-f291-48bb-9c76-761cdf4dc994" />
+      <TestMethod codeBase="C:/Users/rangesh/Documents/Visual Studio 2010/Projects/Experiments/SOLID/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CalculateAreaTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NineFor3x3Rectangle" />
+    </UnitTest>
+    <UnitTest name="TwentyFor5x5Square" storage="c:\users\rangesh\documents\visual studio 2010\projects\experiments\solid\unittest\bin\debug\unittest.dll" id="ba824121-d1e8-82aa-afe9-851a9f692ea8">
+      <Execution id="8ac08348-380b-4982-8517-d17c72d8ba80" />
+      <TestMethod codeBase="C:/Users/rangesh/Documents/Visual Studio 2010/Projects/Experiments/SOLID/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CalculateAreaTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwentyFor5x5Square" />
+    </UnitTest>
+    <UnitTest name="SixFor3x2Rectangle" storage="c:\users\rangesh\documents\visual studio 2010\projects\experiments\solid\unittest\bin\debug\unittest.dll" id="181c5098-2027-6e03-c36e-70a156d5813b">
+      <Execution id="fae6fd71-3b8c-4384-a99a-afdd88918ef3" />
+      <TestMethod codeBase="C:/Users/rangesh/Documents/Visual Studio 2010/Projects/Experiments/SOLID/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CalculateAreaTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SixFor3x2Rectangle" />
+    </UnitTest>
+    <UnitTest name="CombineSquareandRectangle" storage="c:\users\rangesh\documents\visual studio 2010\projects\experiments\solid\unittest\bin\debug\unittest.dll" id="6f8c1259-1be1-1956-5534-f6f94ff9d9e3">
+      <Execution id="5fea66b6-fb87-468a-8500-6f76ecfd4019" />
+      <TestMethod codeBase="C:/Users/rangesh/Documents/Visual Studio 2010/Projects/Experiments/SOLID/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CalculateAreaTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CombineSquareandRectangle" />
+    </UnitTest>
+    <UnitTest name="fourForSquare" storage="c:\users\rangesh\documents\visual studio 2010\projects\experiments\solid\unittest\bin\debug\unittest.dll" id="b36e304a-eb85-f30c-00f3-64fa2e6690d4">
+      <Execution id="5037426b-cf42-4800-a86f-82a1db5e0e9d" />
+      <TestMethod codeBase="C:/Users/rangesh/Documents/Visual Studio 2010/Projects/Experiments/SOLID/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CalculateAreaTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="fourForSquare" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="181c5098-2027-6e03-c36e-70a156d5813b" executionId="fae6fd71-3b8c-4384-a99a-afdd88918ef3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5a3c088f-bf0b-4399-4241-0c56b54c552c" executionId="4df102ea-f291-48bb-9c76-761cdf4dc994" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f8c1259-1be1-1956-5534-f6f94ff9d9e3" executionId="5fea66b6-fb87-468a-8500-6f76ecfd4019" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b36e304a-eb85-f30c-00f3-64fa2e6690d4" executionId="5037426b-cf42-4800-a86f-82a1db5e0e9d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba824121-d1e8-82aa-afe9-851a9f692ea8" executionId="8ac08348-380b-4982-8517-d17c72d8ba80" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fae6fd71-3b8c-4384-a99a-afdd88918ef3" testId="181c5098-2027-6e03-c36e-70a156d5813b" testName="SixFor3x2Rectangle" computerName="RANGESH-PC" duration="00:00:00.0219138" startTime="2014-07-08T08:52:01.4115171+05:30" endTime="2014-07-08T08:52:01.8265408+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fae6fd71-3b8c-4384-a99a-afdd88918ef3">
+    </UnitTestResult>
+    <UnitTestResult executionId="4df102ea-f291-48bb-9c76-761cdf4dc994" testId="5a3c088f-bf0b-4399-4241-0c56b54c552c" testName="NineFor3x3Rectangle" computerName="RANGESH-PC" duration="00:00:00.0008808" startTime="2014-07-08T08:52:01.8335412+05:30" endTime="2014-07-08T08:52:01.8385415+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4df102ea-f291-48bb-9c76-761cdf4dc994">
+    </UnitTestResult>
+    <UnitTestResult executionId="5fea66b6-fb87-468a-8500-6f76ecfd4019" testId="6f8c1259-1be1-1956-5534-f6f94ff9d9e3" testName="CombineSquareandRectangle" computerName="RANGESH-PC" duration="00:00:00.0021368" startTime="2014-07-08T08:52:01.8475420+05:30" endTime="2014-07-08T08:52:01.8525423+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5fea66b6-fb87-468a-8500-6f76ecfd4019">
+    </UnitTestResult>
+    <UnitTestResult executionId="5037426b-cf42-4800-a86f-82a1db5e0e9d" testId="b36e304a-eb85-f30c-00f3-64fa2e6690d4" testName="fourForSquare" computerName="RANGESH-PC" duration="00:00:00.0013282" startTime="2014-07-08T08:52:01.8625429+05:30" endTime="2014-07-08T08:52:01.8665431+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5037426b-cf42-4800-a86f-82a1db5e0e9d">
+    </UnitTestResult>
+    <UnitTestResult executionId="8ac08348-380b-4982-8517-d17c72d8ba80" testId="ba824121-d1e8-82aa-afe9-851a9f692ea8" testName="TwentyFor5x5Square" computerName="RANGESH-PC" duration="00:00:00.0261026" startTime="2014-07-08T08:52:01.8755436+05:30" endTime="2014-07-08T08:52:01.9055454+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ac08348-380b-4982-8517-d17c72d8ba80">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;5&gt;. Actual:&lt;25&gt;. </Message>
+          <StackTrace>   at UnitTest.CalculateAreaTest.TwentyFor5x5Square() in C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\UnitTest\CalculateAreaTestTest.cs:line 52
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

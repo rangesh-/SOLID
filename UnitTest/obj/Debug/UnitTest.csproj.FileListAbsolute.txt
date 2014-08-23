@@ -1,0 +1,7 @@
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\UnitTest\bin\Debug\SOLID.exe
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\UnitTest\bin\Debug\SOLID.pdb
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\UnitTest\obj\Debug\UnitTest.pdb

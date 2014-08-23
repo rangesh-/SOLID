@@ -1,0 +1,5 @@
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\SOLID\bin\Debug\SOLID.exe
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\SOLID\bin\Debug\SOLID.pdb
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\SOLID\obj\x86\Debug\SOLID.exe
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\SOLID\obj\x86\Debug\SOLID.pdb
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\SOLID\obj\x86\Debug\SOLID.csprojResolveAssemblyReference.cache

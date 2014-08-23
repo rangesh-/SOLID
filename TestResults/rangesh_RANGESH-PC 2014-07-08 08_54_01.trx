@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="419b4f6b-37d9-48f3-9c81-39132449f3e3" name="rangesh@RANGESH-PC 2014-07-08 08:54:01" runUser="rangesh-PC\rangesh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7b671d9d-f8b3-4179-8a7c-a4bd411a1748">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rangesh_RANGESH-PC 2014-07-08 08_54_01">
+      <DeploymentItem filename="C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\SOLID\SOLID\bin\Debug\SOLID.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-07-08T08:54:01.1283645+05:30" queuing="2014-07-08T08:54:01.2893737+05:30" start="2014-07-08T08:54:01.3263758+05:30" finish="2014-07-08T08:54:01.9364107+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CombineSquareandRectangle" storage="c:\users\rangesh\documents\visual studio 2010\projects\experiments\solid\unittest\bin\debug\unittest.dll" id="6f8c1259-1be1-1956-5534-f6f94ff9d9e3">
+      <Execution id="57f3dc03-eeb0-4238-89e0-1a70fcc87fc4" />
+      <TestMethod codeBase="C:/Users/rangesh/Documents/Visual Studio 2010/Projects/Experiments/SOLID/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.CalculateAreaTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CombineSquareandRectangle" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6f8c1259-1be1-1956-5534-f6f94ff9d9e3" executionId="57f3dc03-eeb0-4238-89e0-1a70fcc87fc4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="57f3dc03-eeb0-4238-89e0-1a70fcc87fc4" testId="6f8c1259-1be1-1956-5534-f6f94ff9d9e3" testName="CombineSquareandRectangle" computerName="RANGESH-PC" duration="00:00:00.0634768" startTime="2014-07-08T08:54:01.3483771+05:30" endTime="2014-07-08T08:54:01.8884080+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57f3dc03-eeb0-4238-89e0-1a70fcc87fc4">
+    </UnitTestResult>
+  </Results>
+</TestRun>
